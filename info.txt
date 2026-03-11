@@ -1,0 +1,4 @@
+Angel Noe Santos
+10/03/2026
+Practicar la creación de repositorios, clonado, manejo de ramas y generación de un Pull Request.
+Es una petición que se hace en GitHub para revisar y fusionar (juntar) los cambios de una rama secundaria hacia la rama principal (main) de un proyecto.
